@@ -20,7 +20,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Hardcoded Configuration
-TELEGRAM_BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"  # Replace with your actual bot token
+TELEGRAM_BOT_TOKEN = "8553258884:AAFU3Epg62tGihy0ktZ2kZWNRhRm7o9phnk"  # Replace with your actual bot token
 MANDATORY_CHANNEL = "@WinzoHack_Tips_Tricks"
 MANDATORY_CHANNEL_ID = "-1001234567890"  # Replace with actual channel ID (get from @userinfobot)
 
